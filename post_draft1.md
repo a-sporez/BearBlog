@@ -3,18 +3,37 @@
 
 ## Modus Operandi
 
-The way disinformation
+The concept of Deceptive Imagery Persuasion (DIP) is relatively new in discussions around media manipulation and disinformation. It was coined by Ryan McBeth, who delves into topics like information warfare and propaganda. DIP specifically refers to the calculated use of altered or misleading visuals to shape public opinion or behavior.
 
-[Ryan McBeth Lecture](https://www.youtube.com/watch?v=THfi_lxBvW0)
+As for Russian media, deceptive imagery as a tool for influencing perceptions is hardly new—it’s deeply embedded in both Soviet-era propaganda traditions and the sophisticated information tactics we see today. While the term 'DIP' itself might not be a common reference in Russian media studies, the strategies it encapsulates are undeniably pervasive.
+
+[Ryan McBeth Interview](https://www.youtube.com/watch?v=D724vY4eT-8)
+
+Here is my breakdown of this method:
 
 ### *Seeding*
 
-The first step of Russian DIP is to seed disinformation in the information space they intend to operate in
+The first step of DIP is to seed self indulgent trash in the information space they intend to operate in, essentially good old fashioned social engineering where accounts are created, they post benign things, they comment generic things on generic posts. They are just very real human beings doing very human things.
+
+### *MAGIC*
+
+- Make: When a good "bot" is established they are either a real person with a smooth brain, a person operating multiple sock puppets, or literally bots operating on their own (usually not very good quality). They will begin to post politically motivated things from a seemingly neutral position. 
+
+Here is a recent example that outlines the base method within 10 minutes of being posted:
+
+![exhibit1A](https://raw.githubusercontent.com/a-sporez/BearBlog/main/Screenshot%202025-01-02%20133550.png)
+
+We can take a tiny glimpse of the entire dynamics of these kind of information spheres with this snapshot alone.
+
+![exhibit1B](https://raw.githubusercontent.com/a-sporez/BearBlog/main/Screenshot%202025-01-02%20134105.png)
+
+
 
 ## Was it the Russians all along??
 
-Well, depending who you are talking to, you might benefit from answering yes or no to this question, that is not the point of this post however... I hope the person reading this can come up to their own conclusions.
-I personally do not believe in a global hegemonic conspiracy theory. Conspiracies occur all the time often times in plain sight and are inherent to the human experience, we only pay attention to a fraction of those conspiracies for a multitude of reasons.
+Well, depending who you are talking to, you might benefit from answering yes or no to this question, that is not the point of this post however... I hope the person reading this can come up to their own conclusions. My straight answer is no, it wasn't the Russians all along.
+
+I personally do not believe in a global hegemonic conspiracy theories but I wouldn't fault anyone if they did. Conspiracies occur all the time often times in plain sight and are inherent to the human experience, we only pay attention to a fraction of those conspiracies for a multitude of reasons.
 
 *The reason why this matters is because delving into Russian media from the perspective of a disgruntled democracy enjoyer is rather pleasant. The terrible narratives we hear coming out of Russia are often not part of the Russian information sphere*
 
@@ -61,9 +80,12 @@ Another reason why we do not see Russian news outlets criticize the Kremlin posi
 
 ### *Other Outlets*
 
-While it is technically allowed for Russian media to publish a wide variety of content, the state can always Veto the administrative board or simply block access to private outlets. Russians are allowed to criticize the state, like content creators can do it, they are just not allowed to be popular while doing it within Russia. The Russian state benefits from allowing people to speak their minds, it only won't allow it to influence policies, if you want to do breadtubing with political flavor in Russia, you will not make any money, you will be miserable, the only way for you to survive is to look elsewhere for monetization.
+While it is technically allowed for Russian media to publish a wide variety of content, the state can always Veto the administrative board or simply block access to private outlets. Russians are allowed to criticize the state, like content creators can do it, they are just not allowed to be popular while doing it within Russia.
+
+ The Russian state benefits from allowing people to speak their minds, it only won't allow it to influence policies, if you want to do breadtubing with political flavor in Russia, you will not make any money, you will be miserable, the only way for you to survive is to look elsewhere for monetization.
 
 This means that there is a considerable portion of media influence exerted in Russia that is simply unregulated, they have a very diverse independent media scene that is for the most part unpoliticized. The Russian state still tries to exert control over this scene by "allowing" independent media that is generally supportive of the Russian protectionnist ideal to engage in political topics over Telegram channels.
-The topic of military propaganda in support of the Russian occupation of Ukraine for example has been largely pushed around Russian media through independent "milblogs"
+
+ The topic of military propaganda in support of the Russian occupation of Ukraine for example has been largely pushed around Russian media through independent "milblogs"
 
 [relevant article](https://www.lemonde.fr/en/international/article/2024/10/24/on-telegram-russian-messengers-of-war_6730371_4.html)
