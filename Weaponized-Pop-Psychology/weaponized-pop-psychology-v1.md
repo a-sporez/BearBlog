@@ -17,9 +17,10 @@ The first step of DIP is to seed self indulgent trash in the information space t
 
 ### *MAGIC*
 
-- Make: When a good "bot" is established they are either a real person with a smooth brain, a person operating multiple sock puppets, or literally bots operating on their own (usually not very good quality). They will begin to post politically motivated things from a seemingly neutral position. 
+- Make, Acquire, Generate, Infiltrate, Collect: When a good "bot" is established they are either a real person with a smooth brain, a person operating multiple sock puppets, or literally bots operating on their own (usually not very good quality). They will begin to post politically motivated things from a seemingly neutral position. 
 
-Here is a recent example that outlines the base method of infiltration into "Outsider" perspective about the Las Vegas "event".
+Let's take a look at how a Russian aligned subreddit reacted to Matthew Livelsberger's famous Las Vegas action.
+In my opinion this action was a complete tragedy and I do not support thsi kind of action. First of all you can't exactly change the world when you are dead... it doesn't work like that. Next, the action was so cryptic and brutal at the same time that nobody really paid attention to the grievances behind it.
 
 ![exhibit1A](https://raw.githubusercontent.com/a-sporez/BearBlog/main/Screenshot%202025-01-02%20133550.png)
 
@@ -27,20 +28,33 @@ Here is a recent example that outlines the base method of infiltration into "Out
 
 **Now take a look at what the same user posted a day before**
 
+The topic is completely different however we can see it aligns with Russian disinformation already being pushed onto the public space and the modus operandi is essentially the same at a first glance.
+
 ![exhibit2A](https://raw.githubusercontent.com/a-sporez/BearBlog/main/Screenshot%202025-01-02%20173525.png)
 
 And lets take a look at the first page of comments:
 
+![exhibit2B](https://raw.githubusercontent.com/a-sporez/BearBlog/main/Screenshot%202025-01-02%20181327.png)
 
+I believe this redditor is a Russian aligned disinformation actor of some kind, there are many examples out there that look and act just like it.
 
-So here we have it, two factual pieces of information that puts two opposites sides of the **apparent** political compass. Provided by an unknown soldier in the service of factuality.
+Simply put their objectives are:
 
+* Amplify Extremist Narratives: By promoting conspiracy theories related to military actions and government surveillance, disinformation efforts deepens disillusionment and mistrust.
+
+* Create Perception of support or condemnation: Disinformation will fabricate or exaggerate the level of support or condemnations for individuals or groups that appeal or are repelled by a certain audience, portraying them as martyrs or heroes... bastards and villains, thereby encouraging or discouraging similar actions from others.
+
+* Sow Confusion: By disseminating conflicting reports about the incidents and motives of the people who participate, disinformation actors will create confusion, making it challenging for the public to discern the truth.
+
+On one hand you have a constant stream of disinformation meant to appeal and also repel people across the whole entire political spectrum in the hopes of pushing people to those extremes.
+
+The point is to generate those responses to adapt further posting to be tailored to indirectly address the most common ones in deceptive ways. It doesn't matter how terrible the events are you will always find a stream of almost predigested propaganda waiting to be deployed and further cause confusion.
 
 ## Was it the Russians all along??
 
 Well, depending who you are talking to, you might benefit from answering yes or no to this question, however that is not the point of talking about Russia in this post. I hope the person reading this can come up to their own conclusions. My straight answer is no, it wasn't the Russians all along, whatever that means.
 
-I personally do not believe in a global hegemonic conspiracy theories but I wouldn't fault anyone if they did. Conspiracies occur all the time often in plain sight and are inherent to the human experience, we only pay attention to a fraction of those conspiracies for a multitude of reasons.
+I personally do not believe in a global hegemonic conspiracy theory but I wouldn't fault anyone if they did. Conspiracies occur all the time often in plain sight and are inherent to the human experience, we only pay attention to a fraction of those conspiracies for a multitude of reasons.
 
 * *The reason why this matters is because delving into Russian media from the perspective of a disgruntled democracy enjoyer is rather pleasant. The terrible narratives we hear coming out of Russia are often not part of the Russian information sphere*
 
@@ -50,11 +64,13 @@ I personally do not believe in a global hegemonic conspiracy theories but I woul
 
 * *The Russian state media and it's methods does not represent all Russians, in fact many Russians choose not to engage with political commentary for a myriad of reasons that have nothing to do with politics, they are simply doing the best they can to live their lives much like you and I.*
 
+* *I am using the Russian State Media as an example in this post because this is my blog and do what I want!*
+
 With that said, let's start by breaking down what exactly the Russian state's media apparatus is because engaging with a vaguely defined concept is not a sensible way to engage with the complexity of this world.
 
 ---
 
-First of all, if you did not already know, media in Russia is heavily influenced by the state to various extents. There are no considerable pushbacks to the directives coming from the state among thoese media outlets, either because they are directly owned by the state or by oligarchs that have close ties to Vladimir Putin and the Kremlin.
+First of all, if you did not already know, media in Russia is heavily influenced by the state to various extents. There are no considerable pushbacks to the directives coming from the state among most media outlets, either because they are directly owned by the state or by oligarchs that have close ties to Vladimir Putin and the Kremlin.
 While some media companies are privately owned, publishing news or content that does not align with the Kremlin supposedly leads to harsh consequences although the exact nature of those consequences is often vaguely alluded to.
 
 Media outlets must comply with Roskomnadzor (Federal Service for Supervision of Communications) regulations, which can lead to fines or blocking for non-compliance.
@@ -73,14 +89,14 @@ The most typical methods to enforce censorship is to prosecute any detractor for
 **All-Russia State Television and Radio Broadcasting Company (VGTRK)** is a holdings corporation entirely owned by the state, it includes the international branch of Russia Today and multiple media outlets around Russia.
 Along with RT, it is pretty much the central nervous system of Russian state media. [source](https://en.wikipedia.org/wiki/Media_freedom_in_Russia)
 
-They have been investigated for engaging in nefarious activities to exert influence on other nations such as offering sponsorship to content creators that promote certain narraties in the United States social media sphere. [source](https://home.treasury.gov/news/press-releases/jy2559)
+They have been investigated for engaging in nefarious activities to exert influence on other nations such as offering sponsorship to content creators that promote certain narratives in the United States social media sphere. [source](https://home.treasury.gov/news/press-releases/jy2559)
 
 ### *Partial Ownership*
-Another reason why we do not see Russian news outlets criticize the Kremlin positions is because they are partially owned by the Russia state through different means.
+Another reason why we do not see Russian news outlets criticize the Kremlin positions is because they are partially owned through different means.
 
-**Channel One Russia (Pervyj Kanal)**  is 51% state-owned. All of the remaining shares are held by private entities, including National Media Group and VTB Bank. They are probably the most popular channel in Russia and put a mix of news and entertainment.
+**Channel One Russia (Pervyj Kanal)**  is 51% state-owned. All of the remaining shares are held by private entities, including National Media Group and VTB Bank. They are probably the most popular channel in Russia and put a mix of news and entertainment. [source](https://en.wikipedia.org/wiki/Television_in_Russia)
 
-**Gazprom-Media** is a subsidiary of Gazprom, in which Vladimir Putin holds a controlling stake. They own a national television channel but also purchased international media outlets like NRJ, TNT, Match TV.
+**Gazprom-Media** is a subsidiary of Gazprom, in which Vladimir Putin holds a controlling stake. They own a national television channel but also purchased international media outlets like NRJ, TNT, Match TV. [source](https://www.gazprom-media.com/en/business)
 
 ### *Other Outlets*
 
@@ -96,18 +112,4 @@ The milblog scene however, is literally a warzone, most of them were contract so
 
 [relevant article](https://www.lemonde.fr/en/international/article/2024/10/24/on-telegram-russian-messengers-of-war_6730371_4.html)
 
-#### Footnote
-
-You might be asking yourself "Who the heck is this person telling me about propaganda and disinformation"
-
- When I was younger I enjoyed some good old fashioned activism with Greenpeace and protested fossil fuel exploitation extensively. One of my friend was a Boson on the MV Arctic Sunrise when it attempted to board a Gazprom oil rig, they were immediately arrested by FSB officers that were stationed on the rig. Here is a picture of one of them arresting the activists... with a knife.
-
-![Arctic30](https://raw.githubusercontent.com/a-sporez/BearBlog/main/Screenshot%202025-01-02%20152808.png)
-
-And this is me attached to the Burnaby Kinder Morgan Pipeline (unrelated to Gazprom I am self-indulging into a bit of nostalgia) along Keith Stewart with arm bands in support of our friends jailed in Murmansk. This is not technically doxxing myself since this information exists out there and is public, I am confident with my currently established personal boundaries.
-
-![muh](https://raw.githubusercontent.com/a-sporez/BearBlog/main/225783-activists2.jpg)
-
-Suffice it to say, I know a couple things about propaganda and have put this knowledge into actions many times when I was still mentally stable enough to do so.
-
-Thank you for making it this far into my post, I hope it provided some insights and I would appreciate any kind of feedback
+Thank you for making it this far into my post, I hope it provided some insights and I would appreciate any kind of feedback!
