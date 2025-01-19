@@ -28,7 +28,10 @@ Indulging in radical ideologies is in many ways a collective orgy of constant mo
 
 ## **Hyperobjects**
 
-I would like to turn your attention towards the concept of hyperobjects. Timothy Morton defines hyperobjects as entities so massively distributed across time and space that they transcend traditional notions of individuality and locality. Examples include climate change, nuclear materials, and capitalism. [Timothy Morton](https://en.wikipedia.org/wiki/Timothy_Morton?utm_source=chatgpt.com)
+I would like to turn your attention towards the concept of hyperobjects. Timothy Morton defines hyperobjects as entities so massively distributed across time and space that they transcend traditional notions of individuality and locality. Examples include climate change, nuclear materials, and capitalism. [Timothy Morton](https://en.wikipedia.org/wiki/Timothy_Morton)
+
+And from this concept arises the idea of hyperassassination as skillfully brought up by Smugbug of the Pondscum Collective.
+[Podscum Collective: HYPER-ASSASINATION](https://pondscum.gg/hyper-assassination/)
 
 (**WIP**)
 
