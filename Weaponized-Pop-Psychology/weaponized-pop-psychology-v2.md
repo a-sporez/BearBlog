@@ -22,8 +22,14 @@ Vaknin highlights that while these experiences are deeply uncomfortable, they ca
 
 This concept has also been described as "the primitive terror of self-dissolution, triggered by the sudden exposure of one's sense of a defective self." Such moments can lead to feelings of shame and a temporary loss of inner stability. However, with the right tools and support, these experiences can serve as a catalyst for self-understanding and personal development.
 
+[Sam Vaknin](https://vaknin-talks.com/transcripts/Narcissistic_Mortification_From_Shame_to_Healing_via_Trauma_Fear_and_Guilt/)
+
 Indulging in radical ideologies is in many ways a collective orgy of constant mortification, or more like futile attempts to avoid it... I'm not sure exactly but I guess this is the purpose of this post, to incentivise discussions about this phenomenon, however you may like to call it.
 
 ## **Hyperobjects**
+
+I would like to turn your attention towards the concept of hyperobjects. Timothy Morton defines hyperobjects as entities so massively distributed across time and space that they transcend traditional notions of individuality and locality. Examples include climate change, nuclear materials, and capitalism. [Timothy Morton](https://en.wikipedia.org/wiki/Timothy_Morton?utm_source=chatgpt.com)
+
+(**WIP**)
 
 Ideological extremism appeals to a futile attempt at creating a hyper-object of personality... a fantasy that is attractive to a specific type of person that can provide a specific type of external validation.
