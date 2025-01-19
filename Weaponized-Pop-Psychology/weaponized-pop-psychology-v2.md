@@ -33,6 +33,10 @@ I would like to turn your attention towards the concept of hyperobjects. Timothy
 And from this concept arises the idea of hyperassassination as skillfully brought up by Smugbug of the Pondscum Collective.
 [Podscum Collective: HYPER-ASSASINATION](https://pondscum.gg/hyper-assassination/)
 
-(**WIP**)
+The Pondscum Collective introduces the concept as a radical response to people who have become embodiments of hyperobjects—termed "Hypermen". These Hypermen are seen as carriers, or vessels through which the huge structures of power and influence operate, making them memetic representations of systems beyond individual human understanding like capitalism. The act of hyperassassination is portrayed as an attempt to disrupt these systems by removing their flesh bag representatives.
+
+*And this is when I though I could add to the Pondscum Collective's discussion by comapring it to the process of mortification.*
 
 Ideological extremism appeals to a futile attempt at creating a hyper-object of personality... a fantasy that is attractive to a specific type of person that can provide a specific type of external validation.
+
+(**WIP**)
