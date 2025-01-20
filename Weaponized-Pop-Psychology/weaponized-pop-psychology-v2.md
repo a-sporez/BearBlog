@@ -1,7 +1,3 @@
-Here’s the revised and corrected version of your text:
-
----
-
 # **Mortification: Why Do We Hesitate to Get Better?**
 
 One of the biggest obstacles to my individuation and healing process was undoubtedly my own self-destructive traits.
@@ -72,6 +68,6 @@ The human mind has an incredible ability to imagine things beyond comprehension 
 
 (**WIP**)
 
-[Weaponized Pop Psychology](https://spore.bearblog.dev/weaponized-pop-psychology/)
+*Back to* [Weaponized Pop Psychology](https://spore.bearblog.dev/weaponized-pop-psychology/)
 
 ---
