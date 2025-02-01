@@ -22,7 +22,7 @@ Let's instead break down the 3 methods of communication outlined in the article 
 
 ### 2. *(Organisational)* _**Organising and moderating communities.**_
 
-    This refers to the ability to structure, mobilize, and sustain collective action within a movement. It includes coordination, decision-making, and resource allocation.
+    This refers to the ability to structure, mobilize, and sustain collective engagement within a collective. It includes coordination, decision-making, and resource allocation.
 
         - stuff
 
@@ -32,7 +32,7 @@ Let's instead break down the 3 methods of communication outlined in the article 
 
 ### 3. *(Political)* _**Negotiating shared realities with outsiders.**_
 
-    This aspect involves the ability to engage with institutions, media, and the general public to legitimize action and push for tangible change.
+    This aspect involves the ability to engage with institutions, media, and the general public to legitimize action and push for their ideals to be put into some form of action.
 
         - stuff
 
