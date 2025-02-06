@@ -19,10 +19,11 @@ Some pictures of small projects I helped organised or bigger projects I took par
 
 ![img/gpc01.png](https://raw.githubusercontent.com/a-sporez/BearBlog/refs/heads/main/Weaponized-Pop-Psychology/img/gpc01.png)
 ![img/gpc02.png](https://raw.githubusercontent.com/a-sporez/BearBlog/refs/heads/main/Weaponized-Pop-Psychology/img/gpc02.png)
+
 ![img/gpc03a.png](https://raw.githubusercontent.com/a-sporez/BearBlog/refs/heads/main/Weaponized-Pop-Psychology/img/gpc03a.png)
+![img/gpc03c.png](https://raw.githubusercontent.com/a-sporez/BearBlog/refs/heads/main/Weaponized-Pop-Psychology/img/gpc03c.png)
 
 ![img/gpc03b.png](https://raw.githubusercontent.com/a-sporez/BearBlog/refs/heads/main/Weaponized-Pop-Psychology/img/gpc03b.png)
-![img/gpc03c.png](https://raw.githubusercontent.com/a-sporez/BearBlog/refs/heads/main/Weaponized-Pop-Psychology/img/gpc03c.png)
 
 ![img/gpc03d.png](https://raw.githubusercontent.com/a-sporez/BearBlog/refs/heads/main/Weaponized-Pop-Psychology/img/gpc03d.png)
 
