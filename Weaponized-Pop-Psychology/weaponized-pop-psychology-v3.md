@@ -18,14 +18,23 @@ I have worked mostly on multiple projects aiming to raise awareness about topics
 Some pictures of small projects I helped organised or bigger projects I took part in that are available to the public:
 
 img/01.png
+
 img/gpc02.png
+
 img/gpc03a.png
+
 img/gpc03b.png
+
 img/gpc03c.png
+
 img/gpc03d.png
+
 img/gpc03e.png
+
 img/gpc03f.png
+
 img/gpc03g.png
+
 img/gpc04.png
 
 Here is breakdown of how I learned to organise non violent civil disobedience during these years and hopefully I can wrap it up into a useful tool for today's non violent civil action enthusiasts.
