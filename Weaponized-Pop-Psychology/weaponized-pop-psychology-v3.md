@@ -1,42 +1,22 @@
-# Internet Societies, Separation And Propagation.
+# Parasocial Communities Beyond Digital Vigilantism.
 
-## Digilal Vigilantism.
+## Digilal Vigilantism
 
 One of the most common form of online direct action we often see in the information space is a digital adaptation of crowd justice adorned with semi-anonymous vigilantism. The action will typically follow a transgression of the collectively, and often arbitrarily established moral standard that encompasses the most common affinities of a collective, and often strive to expose it.
 
-In this section I will elaborate upon the basic structure of [this 2018 article about class divide impacting online activism](https://academic.oup.com/socpro/article/65/1/51/4795348) and adapt it to the contemporary era however the subject discussed is different.
+In this section I will elaborate upon some of the subjects elaborated in this article [this 2018 article about class divide impacting online activism](https://academic.oup.com/socpro/article/65/1/51/4795348) and use it to remain grounded towards the reflexion I would like to perhaps generate.
+
+What the article outlines the most is the assymetry is the means of resource acquisition among digital vigilantism however the parasocial aspect is overlooked. We can form solid communities revolving around parasocial principles. I am a person interacting with the web, I recognize the people in this "web" are real people and associate socially in a selective manner with some of them.
+
+There is not expectation of social responsibility, the community I am engaging in does not HAVE to provide me with purpose, I do not HAVE to provide it legitimacy and respect. This exchange occurs only if everyone involved consents.
 
 As an aspiring [Psychic War](https://pondscum.gg/psychic-war/) contributor I have accepted that it is highly unlikely human right violations and political extremism that leads to fascist policies can be reversed, or even opposed effectively in the material world therefore Psychic Warfare is necessary.
 
 I think that the online opposition to those types of violations already exists and is gaining momentum and initiative through grassroots movements on the internet and I would love to share my experience with such maters with anyone who finds this blog post.
 
-For context, I have worked for a little over 4 years as a fundraising team leader for Greenpeace Canada, as well as a local volunteer group manager and organiser for a little under 3 years on my spare time.
-I have conducted 7 NVDA along the Greepeace banner 5 of which resulted in arrests and prosecution for conspiracy to commit indictable offense, for which justice has been served. So I can speak about it as much as I want.
+[My main page](https://spore.bearblog.dev)
 
-I have worked mostly on multiple projects aiming to raise awareness about topics such as climate change, sustainable agriculture, nuclear safety regulations, protection of endagered ecossystems. From small time outreach with local communities to NVDA that caused tens of millions of dollars in operational costs to huge corporations.
-
-Some pictures of small projects I helped organised or bigger projects I took part in that are available to the public:
-
-![img/gpc01.png](https://raw.githubusercontent.com/a-sporez/BearBlog/refs/heads/main/Weaponized-Pop-Psychology/img/gpc01.png)
-![img/gpc02.png](https://raw.githubusercontent.com/a-sporez/BearBlog/refs/heads/main/Weaponized-Pop-Psychology/img/gpc02.png)
-
-![img/gpc03a.png](https://raw.githubusercontent.com/a-sporez/BearBlog/refs/heads/main/Weaponized-Pop-Psychology/img/gpc03a.png)
-![img/gpc03c.png](https://raw.githubusercontent.com/a-sporez/BearBlog/refs/heads/main/Weaponized-Pop-Psychology/img/gpc03c.png)
-
-![img/gpc03b.png](https://raw.githubusercontent.com/a-sporez/BearBlog/refs/heads/main/Weaponized-Pop-Psychology/img/gpc03b.png)
-
-![img/gpc03d.png](https://raw.githubusercontent.com/a-sporez/BearBlog/refs/heads/main/Weaponized-Pop-Psychology/img/gpc03d.png)
-
-![img/gpc03e.png](https://raw.githubusercontent.com/a-sporez/BearBlog/refs/heads/main/Weaponized-Pop-Psychology/img/gpc03e.png)
-
-![img/gpc03f.png](https://raw.githubusercontent.com/a-sporez/BearBlog/refs/heads/main/Weaponized-Pop-Psychology/img/gpc03f.png)
-
-![img/gpc03g.png](https://raw.githubusercontent.com/a-sporez/BearBlog/refs/heads/main/Weaponized-Pop-Psychology/img/gpc03g.png)
-
-![img/gpc04.png](https://raw.githubusercontent.com/a-sporez/BearBlog/refs/heads/main/Weaponized-Pop-Psychology/img/gpc04.png)
-
-Here is breakdown of how I learned to organise non violent civil disobedience during these years and hopefully I can wrap it up into a useful tool for today's non violent civil action enthusiasts.
-I find it's helpful to break down more complicated tasks into smaller more simple tasks that are easy to be assigned to other people you rely on or at least assign within your workflow if you are working by yourself. There are 3 main aspects of organisaing a grassroot community:
+There are 3 main aspects of organisaing a socialist-coded grassroot community:
 
 ### 1. *(Ideological)* _**Relating individual perspectives to causes.**_
 
@@ -67,9 +47,3 @@ I find it's helpful to break down more complicated tasks into smaller more simpl
         - Non Violent Direct Action, Assembly, Training, Legal implications (common law).
 
         - Militant Competition, Schisms, Intersectional Strife.
-
-### **_Case Comparison_**
-
-#### 4chan anon vs. scientology
-
-#### Contemporary breadtubing
